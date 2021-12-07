@@ -4,5 +4,5 @@ A repository dedicated to boosting / gradient boosted trees, applying tools such
 The following are explored in-depth through notebooks and presentations:
 - Introduction to boosting
 - XGBoost hyperparameter tuning
-- CatBoost tutorial
+- In-depth tutorial of CatBoost
 - Explaining models with SHAP
